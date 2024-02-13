@@ -3,3 +3,12 @@
 ::before {
   box-sizing: border-box;
 }
+
+main {
+  display: flex;
+}
+
+article {
+  border: 2px solid black;
+  margin: 20px;
+}
